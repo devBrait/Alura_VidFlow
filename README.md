@@ -6,7 +6,7 @@ Tecnlogias usadas no curso:
 - JavaScript
 - HTML
 - CSS
-- Json
+- JSON
 
 Ferramentas:
 
@@ -16,13 +16,12 @@ Ferramentas:
 
 - O projeto basicamente consiste em consumir dados de uma API "fake" feita em json, e partir disso tratar os dados no JS e realizar filtros de pesquisas e exibir imagens também.
 
-# Instruções:
+# Execução:
 
 - Para rodar o backend é necessário passar os seguintes comandos no terminal:
- ### Comando para instalar o npm:
+ ### Instalar o json-server:
         npm install -g json-server
-### Comando para executar o arquivo:
-  
+### Executar o servidor JSON:
       json-server --watch backend-videos.json
 
 # Agradecimentos:
